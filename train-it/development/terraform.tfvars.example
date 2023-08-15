@@ -1,0 +1,9 @@
+bucket_name = ""
+
+domain_name = ""
+
+common_tags = {
+  ManagedBy = ""
+  Project   = "",
+  Stage     = ""
+}
